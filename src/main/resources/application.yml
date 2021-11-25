@@ -9,5 +9,5 @@ spring:
           uri: https://github.com/jonavcar/Proyecto2_ConfigData
           searchPaths: application-config
           default-label: main
-          username: jonavcar@gmail.com
-          password: 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
+          username: 
+          password: 
