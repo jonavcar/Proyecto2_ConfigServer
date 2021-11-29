@@ -1,11 +1,9 @@
 server:
     port: 9997
-    
+ 
 spring:
   application:
       name: api-configserver
-
-spring:
   cloud:
     config:
       server:
